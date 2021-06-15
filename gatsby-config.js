@@ -1,34 +1,26 @@
 module.exports = {
   pathPrefix: "/blog",
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Personal Blog by Fahmi Achmad F`,
+    name: `Fahmi Achmad Fauzi`,
+    siteUrl: `https://fahmiafau.github.io`,
+    description: `Fahmi Achmad's Blog. The place where i share my thought, TIL, etc.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Hello and Welcome to Fahmi Achmad's Blog.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/fahmiafau`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/fahmiinaja`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/in/fahmi-achmad-fauzi-a1b3aa110/`,
       },
     ],
   },
