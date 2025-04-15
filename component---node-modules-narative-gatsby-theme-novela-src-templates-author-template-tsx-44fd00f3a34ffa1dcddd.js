@@ -17,4 +17,4 @@
     padding: 0;
     background: transparent;
   `,"");e.default=t=>{let{location:e,pageContext:a}=t;const n=a.additionalContext.author,l=a.group;return Object(p.jsx)(r.a,null,Object(p.jsx)(i.a,{pathname:e.pathname,title:n.name,description:n.bio}),Object(p.jsx)(o.a,{narrow:!0},Object(p.jsx)(d,{author:n}),Object(p.jsx)(O,{articles:l}),Object(p.jsx)(y,null,Object(p.jsx)(s.a,a))),Object(p.jsx)(v,null))};const v=Object(n.a)("div",{target:"e1q1eakx0"})("position:absolute;bottom:0;left:0;width:100%;height:590px;z-index:0;pointer-events:none;background:",t=>t.theme.colors.gradient,";transition:",t=>t.theme.colorModeTransition,";"),y=Object(n.a)("div",{target:"e1q1eakx1"})({name:"xi606m",styles:"text-align:center;"})}}]);
-//# sourceMappingURL=component---node-modules-narative-gatsby-theme-novela-src-templates-author-template-tsx-278f6d2684bcb3d8107a.js.map
+//# sourceMappingURL=component---node-modules-narative-gatsby-theme-novela-src-templates-author-template-tsx-44fd00f3a34ffa1dcddd.js.map
