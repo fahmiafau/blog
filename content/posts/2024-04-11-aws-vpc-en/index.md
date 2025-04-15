@@ -2,7 +2,7 @@
 title: Setup VPC and Network in AWS [EN]
 author: Fahmi Achmad
 date: 2024-04-11
-hero: src/assets/bruno-figueiredo-RBnP_OdmTeE-unsplash.jpg
+hero: ./images/bruno-figueiredo-RBnP_OdmTeE-unsplash.jpg
 excerpt: curious how to make virtual private cloud in AWS? let's learn how to make it using terraform.
 ---
 
